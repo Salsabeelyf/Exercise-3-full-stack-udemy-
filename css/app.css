@@ -2,16 +2,11 @@ body {
   background-color: #ffe3e3;
   font-family: sans-serif;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+  text-align: center; }
 
 h1 {
   color: #c60066; }
-
-h1, h2, h3, p {
-  margin: auto;
-  text-align: center;
-  padding-top: 10px;
-  padding-bottom: 10px; }
 
 .row {
   display: flex;
@@ -58,8 +53,7 @@ h1, h2, h3, p {
 .col-12 {
   width: 100%; }
 
-[class*="col-"] {
-  padding: 10px;
-  float: left; }
+.cat-img {
+  width: 50%; }
 
 /*# sourceMappingURL=app.css.map */
