@@ -1,3 +1,17 @@
+body
+{
+  background-color: #ffe3e3;
+}
+
+h1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: auto;
+    text-align: center;
+    color: #c60066;
+    background-color: white;
+}
 
 img
 {
