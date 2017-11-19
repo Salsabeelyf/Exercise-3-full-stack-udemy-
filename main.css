@@ -1,3 +1,9 @@
+
+img
+{
+  width: 50%;
+}
+
 .row
 {
   display: flex;
@@ -26,5 +32,11 @@
 
 [class*="col-"]
 {
+  padding: 10px;
   float: left;
+}
+
+*
+{
+  box-sizing: border-box;;
 }
