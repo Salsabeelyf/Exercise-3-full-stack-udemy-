@@ -1,12 +1,13 @@
 body {
   background-color: #ffe3e3;
   font-family: sans-serif;
-  margin: 0;
-  padding: 0;
+  margin-top: -10px;
+  padding: 0 10px 20px;
   text-align: center; }
 
 h1 {
-  color: #c60066; }
+  color: #c60066;
+  padding: 15px; }
 
 .row {
   display: flex;
@@ -54,7 +55,13 @@ h1 {
   width: 100%; }
 
 [class*="col-"] {
-  padding: 10px; }
+  padding: 0px 10px; }
+
+#header {
+  background-color: white; }
+
+.banner-container {
+  background-color: white; }
 
 .cat-img {
   width: 50%; }
