@@ -53,6 +53,9 @@ h1 {
 .col-12 {
   width: 100%; }
 
+[class*="col-"] {
+  padding: 10px; }
+
 .cat-img {
   width: 50%; }
 
